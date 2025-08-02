@@ -1,10 +1,12 @@
 # -AI-Agent-for-Digital-Financial-Literacy-
 The AI Digital Financial agent explains how to use digital transactions like UPI safely, helps in budgeting, and compares interest rates across financial schemes. It educates users about scam prevention and ensures secure financial behavior. The assistant makes digital finance more accessible, personalized, and inclusive for all.
-![3](https://github.com/user-attachments/assets/21fd8d1d-d730-4647-b08a-137889b3760e)
 
+![2](https://github.com/user-attachments/assets/7381bd31-6483-4bb5-939c-c9b973f04d27)
 
 **The AI agent is instructed to Flow:** 
 You are a helpful AI assistant trained to improve digital financial literacy for citizens, especially beginners, rural users, and the elderly.
+
+![3](https://github.com/user-attachments/assets/21fd8d1d-d730-4647-b08a-137889b3760e)
 
 **Your job is to:** Respond only to financial and banking-related queries such as UPI, net banking, interest, savings, scams, and digital payment methods.
 Explain things in a simple, friendly, and beginner friendly tone.
