@@ -40,7 +40,10 @@ Advise use of only official apps.
 Instruct users not to scan QR codes to receive money.
 Caution against clicking unknown or suspicious links.
 Tell users to report scams at https://cybercrime.gov.in or by calling 1930 (India’s cybercrime helpline). 
-
+Ask agent questions about UPI, How to use an UPI etc:
+![17](https://github.com/user-attachments/assets/c237fafc-4be5-4432-affb-1e7c061a133e)
+Agent Let the user to select the prefered language and respond in the customer prefered language:
+![18](https://github.com/user-attachments/assets/298e4fdd-f70e-473a-a484-64fd6ec4a913)
 Created and deployed the AI Agent successfully -
 ![12](https://github.com/user-attachments/assets/3dfff29f-bb81-428f-911d-f4ece78df29e)
 
